@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  margin-top: 20px;
+}
+
+body {
+  overflow-y: hidden;
+}
+
+.container {
+  font-family: "Inter", sans-serif;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-iniciar {
+  margin: 10px 2px;
+  width: 12rem;
+  height: 4rem;
+  background: #5542ac;
+
+  border-radius: 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: white;
+}
+
+.btn-nueva-palabra {
+  margin: 10px 2px;
+  margin-left: 1px;
+  width: 12rem;
+  height: 4rem;
+  background: #5542ac;
+
+  border-radius: 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: white;
+}
