@@ -1,7 +1,6 @@
 let palabras = ["ALURA", "ORACLE", "ONE", "JAVASCRIPT", "HTML"];
 let tablero = document.getElementById("forca").getContext("2d");
 
-let palabraEncontrada = "";
 let palabraSecreta = "";
 let letras = [];
 let errores = 10;
